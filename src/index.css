@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+/* CARD STYLES */
+.customCard {
+    background: #EFEFEF;
+}
+
+.customCard .header {
+	background: #FFF;
+}
+
+/* BUTTON STYLES */
+
+._3tTAW:not([disabled])._221ic, ._3tTAW:not([disabled])._3IRMZ {
+	background: red;
+}
